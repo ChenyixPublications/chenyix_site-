@@ -20,7 +20,7 @@ const BOOKS = [
     cover: "assets/book-cover.jpg",
     badge: "For ICSE — Year 2027 Examination Onwards",
     isbn: "",               // Add ISBN if available
-    description: "ICSE Environmental Applications — a comprehensive, examination-focused textbook for ICSE Class X by Er. Vel Vignesh. Perfectly aligned with the CISCE 2027 syllabus for Environmental Applications, this book combines conceptual clarity with extensive practice questions to help students excel in ICSE Environmental Applications.",
+    description: "ICSE Environmental Applications — a comprehensive, examination-focused textbook for ICSE Class X by Er. Chinnu. Perfectly aligned with the CISCE 2027 syllabus for Environmental Applications, this book combines conceptual clarity with extensive practice questions to help students excel in ICSE Environmental Applications.",
     boardTag: "ICSE",
     classTag: "Class X",
     inStock: true
