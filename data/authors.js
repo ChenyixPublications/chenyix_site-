@@ -13,6 +13,7 @@
 //   author-.jpg → Er. Chinnu
 //   jeevarathinam.jpg     → Mrs. Jeevarathinam
 //   vaishnavi-devi.jpg    → Dr. B. Vaishnavi Devi
+// new author
 // ============================================================
 
 const TEAM = [
