@@ -30,7 +30,7 @@ const TEAM = [
     name: "Er. Chinnu",
     role: "Author",
     qualifications: "M.Tech, MBA",
-    description: "Author of 'ICSE Environmental Applications for Class X'. An engineer and management professional with a passion for education, Er. Vel Vignesh combines technical precision with strategic thinking to produce content that bridges curriculum and student understanding — helping learners excel in ICSE Environmental Applications.",
+    description: "Author of 'ICSE Environmental Applications for Class X'. An engineer and management professional with a passion for education, Er. Chinnu combines technical precision with strategic thinking to produce content that bridges curriculum and student understanding — helping learners excel in ICSE Environmental Applications.",
     avatar: "assets/author.jpg",
     initials: "CH"
   },
